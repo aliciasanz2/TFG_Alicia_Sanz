@@ -14,6 +14,9 @@ TFG_Alicia_Sanz/
 │
 ├── data/                
 │   ├── raw (reduced)/             # Datos sin procesar
+|   |   ├── csv/
+|   |   ├── excel (reduced)/
+|   |
 │   └── processed (reduced)/       # Datos procesados
 │
 ├── .gitignore
