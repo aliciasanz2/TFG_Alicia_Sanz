@@ -6,9 +6,9 @@
 La estructura del repositorio es la siguiente:
 
 ```
-TFG_AliciaSanz/
+TFG_Alicia_Sanz/
 │
-├── notebooks/           # Jupyter Notebooks .ipynb
+├── notebook/            # Jupyter Notebooks .ipynb
 │
 ├── src/                 # Código fuente Python (módulos .py)
 │
